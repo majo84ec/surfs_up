@@ -23,8 +23,13 @@ For this analysis was created a query that filters the Measurement table to retr
 - Average of temperature in Jun is 74,94F with min. 64F and max. 85F.
 - In December temperatura min. is 56F , max. 83F  and average of 71F.
 - The diference between maxima and average temperatures in these months do not represent more than 4F. However , the minima temperatura drop 8F in December.
+  Overall the temperatures are in the same range in June and December.
 
 ## Summary.
-For the investor make a decision based only in the temperature could be risky.  There are other factors/ variables we should considerate for analysis like season or  precipitation. 
-Based on the information of the table, we will considerate prepicipation levels for these two months:
+For the investor make a decision based only in the temperature could be risky.  There are other  variables we should considerate for analysis like  precipitation. 
+Based on the information of the table, we will considerate their levels for these two months:
 
+![image](https://user-images.githubusercontent.com/120151872/219865116-c2e65bd0-e66e-4563-b09d-90849660d440.png)
+![image](https://user-images.githubusercontent.com/120151872/219865128-2a88139e-6ee4-4e01-bb12-02490167ec07.png)
+
+There is a minimo rate of precipitation in both months. June could be considerate a better for the business based on the average (0.13) and max.(4.43) rates, but  the rainfall for the area is lower.
