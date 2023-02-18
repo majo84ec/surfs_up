@@ -10,7 +10,8 @@ For this analysis was created a query that filters the Measurement table to retr
 
 ![image](https://user-images.githubusercontent.com/120151872/219830351-29634816-e2ad-4735-8e7f-3be6ed9d326e.png)
 
-![image](https://user-images.githubusercontent.com/120151872/219830411-ac83f54a-3c80-4e53-b669-fc83797b2796.png)
+![image](https://user-images.githubusercontent.com/120151872/219830519-b58798c2-05e6-4cec-ae39-8aa31e50eea5.png)
+
 
 
 
@@ -23,7 +24,7 @@ For this analysis was created a query that filters the Measurement table to retr
 - In December temperatura min. is 56F , max. 83F  and average of 71F.
 - The diference between maxima and average temperatures in these months do not represent more than 4F. However , the minima temperatura drop 8F in December.
 
-
-This analysis can not considerate only temperature of island . There are other factors can help the investor to make a decision , such as the season or  precipitation. 
-If we considerate prepicipation levels the results are:
+## Summary.
+For the investor make a decision based only in the temperature could be risky.  There are other factors/ variables we should considerate for analysis like season or  precipitation. 
+Based on the information of the table, we will considerate prepicipation levels for these two months:
 
